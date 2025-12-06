@@ -1,5 +1,5 @@
 #include <stdio.h>
-//It is same with ex12 both of them are recursive functions
+//It is same with ex12 both of them are recursive functions 
 int fact(int a){
     if(a == 1){
         return 1;
